@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamra Faizal</h1>
+<h1 align="center">Hey 👋, I'm Shamra Faizal</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/shamra_faizal" target="blank"><img src="https://img.shields.io/twitter/follow/shamra_faizal?logo=twitter&style=for-the-badge" alt="shamra_faizal" /></a> </p>
