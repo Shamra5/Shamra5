@@ -1,7 +1,6 @@
 <h1 align="center">Hey👋, I'm Shamra Faizal</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/shamra_faizal" target="blank"><img src="https://img.shields.io/twitter/follow/shamra_faizal?logo=twitter&style=for-the-badge" alt="shamra_faizal" /></a> </p>
 
 - 🔭 I’m currently working on [open_sesame](https://github.com/Team-Kylix)
 
