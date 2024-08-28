@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 
-- 🔭 I’m currently working on [Open_Sesame](github.com/Shamra5/open-sesame.git)
+- 🔭 I’m currently working on [Open_Sesame](https://github.com/Team-Kylix)
 
 - 🌱 I’m currently learning **Javascript,C++,C#,Python,SQL**
 
