@@ -8,6 +8,7 @@ I am a versatile full stack developer with a robust foundation in various progra
 - 💬 Open to discussions on **Android Development, React**
 - 📫 Reach me at **shamrafaizal@gmail.com**
 - 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/shamra-faizal-5a21712a1)
+- 📄 Here is a link to my CV for your review (https://drive.google.com/file/d/1Y6Gf-x2gSvuTp70lKBETjQjJ-HQObUC8/view?usp=sharing)
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
