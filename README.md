@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Shamra Faizal</h1>
-<h3 align="center">A Dedicated and Skilled Full Stack Developer with a Passion for Innovation</h3>
+<h3 align="center">A Dedicated Full Stack Developer Passionate About Innovation</h3>
 
-I am a versatile full stack developer with a robust foundation in various programming languages and frameworks. My passion lies in crafting scalable, efficient, and innovative solutions that drive success.
+I'm a versatile full stack developer with a strong foundation in various programming languages and frameworks, driven to create scalable, efficient, and innovative solutions that make an impact.
 
-- 🔭 I’m currently working on [Open_Sesame](https://github.com/Team-Kylix)
-- 🌱 Continuously expanding my expertise in **JavaScript, C++, C#, Python, SQL**
+- 🔭 Currently working on [Open_Sesame](https://github.com/Team-Kylix)
+- 🌱 Expanding my expertise in **JavaScript, C++, C#, Python, SQL**
 - 💬 Open to discussions on **Android Development, React**
 - 📫 Reach me at **shamrafaizal@gmail.com**
-- 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/shamra-faizal-5a21712a1)
-- 📄 Here is a link to my CV for your review (https://drive.google.com/file/d/1Y6Gf-x2gSvuTp70lKBETjQjJ-HQObUC8/view?usp=sharing)
+- 📄 View my professional journey on [LinkedIn](https://www.linkedin.com/in/shamra-faizal-5a21712a1)
+- 📄 [Check out my CV](https://drive.google.com/file/d/1Y6Gf-x2gSvuTp70lKBETjQjJ-HQObUC8/view?usp=sharing)
+- 🔗 Check out my GitHub Profile: [Shamra5](https://github.com/Shamra5)
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -61,9 +62,9 @@ I am a versatile full stack developer with a robust foundation in various progra
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamra5&show_icons=true&locale=en" alt="shamra5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shamra5&show_icons=true&locale=en" alt="Shamra5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamra5&" alt="shamra5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shamra5&" alt="Shamra5" /></p>
 
 <h3 align="left">Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamra5&layout=compact&theme=default" alt="Most Used Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamra5&layout=compact&theme=default" alt="Most Used Languages" /></p>
