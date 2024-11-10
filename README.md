@@ -9,6 +9,7 @@ I'm a versatile full stack developer with a strong foundation in various program
 - 📫 Reach me at **shamrafaizal@gmail.com**
 - 📄 View my professional journey on [LinkedIn](https://www.linkedin.com/in/shamra-faizal-5a21712a1)
 - 📄 [Check out my CV](https://drive.google.com/file/d/1Y6Gf-x2gSvuTp70lKBETjQjJ-HQObUC8/view?usp=sharing)
+- Here’s a link to my [Portfolio](https://shamra5.github.io/my-portfolio/) where you can explore my work in more detail!
 - 🔗 Check out my GitHub Profile: [Shamra5](https://github.com/Shamra5)
 
 <h3 align="left">Connect with Me:</h3>
