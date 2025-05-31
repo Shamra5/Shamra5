@@ -4,7 +4,7 @@
 I'm a versatile full stack developer with a strong foundation in various programming languages and frameworks, driven to create scalable, efficient, and innovative solutions that make an impact.
 
 - 🔭 Currently working on [Open_Sesame](https://github.com/Team-Kylix)
-- 🌱 Expanding my expertise in **JavaScript, C++, C#, Python, SQL**
+- 🌱 Expanding my expertise in **JavaScript, C++, C#, Python, SQL, Java, ReactJs**
 - 💬 Open to discussions on **Android Development, React**
 - 📫 Reach me at **shamrafaizal@gmail.com**
 - 📄 View my professional journey on [LinkedIn](www.linkedin.com/in/shamra-faizal-5a21712a1)
