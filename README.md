@@ -7,8 +7,8 @@ I'm a versatile full stack developer with a strong foundation in various program
 - 🌱 Expanding my expertise in **JavaScript, C++, C#, Python, SQL**
 - 💬 Open to discussions on **Android Development, React**
 - 📫 Reach me at **shamrafaizal@gmail.com**
-- 📄 View my professional journey on [LinkedIn](https://www.linkedin.com/in/shamra-faizal-5a21712a1)
-- 📄 [Check out my CV](https://drive.google.com/file/d/1Y6Gf-x2gSvuTp70lKBETjQjJ-HQObUC8/view?usp=sharing)
+- 📄 View my professional journey on [LinkedIn](www.linkedin.com/in/shamra-faizal-5a21712a1)
+- 📄 [Check out my CV](https://drive.google.com/file/d/1NRtzaGRyQl0R6VMjstxvm8TgL2LooVVe/view?usp=sharing)
 - 🔗 Here’s a link to my [Portfolio](https://shamra5.github.io/my-portfolio/) where you can explore my work in more detail!
 - 🔗 Check out my GitHub Profile: [Shamra5](https://github.com/Shamra5)
 
